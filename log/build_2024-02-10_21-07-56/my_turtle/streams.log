@@ -1,0 +1,39 @@
+[0.661s] Invoking command in '/root/ros2_ws/src/my_turtle': PYTHONPATH=/root/ros2_ws/src/my_turtle/build/my_turtle/prefix_override:/root/ros2_ws/src/my_turtle/install/my_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/my_turtle build --build-base /root/ros2_ws/src/my_turtle/build/my_turtle/build install --record /root/ros2_ws/src/my_turtle/build/my_turtle/install.log --single-version-externally-managed
+[0.822s] running egg_info
+[0.822s] creating build/my_turtle/my_turtle.egg-info
+[0.823s] writing build/my_turtle/my_turtle.egg-info/PKG-INFO
+[0.823s] writing dependency_links to build/my_turtle/my_turtle.egg-info/dependency_links.txt
+[0.823s] writing entry points to build/my_turtle/my_turtle.egg-info/entry_points.txt
+[0.823s] writing requirements to build/my_turtle/my_turtle.egg-info/requires.txt
+[0.823s] writing top-level names to build/my_turtle/my_turtle.egg-info/top_level.txt
+[0.824s] writing manifest file 'build/my_turtle/my_turtle.egg-info/SOURCES.txt'
+[0.825s] reading manifest file 'build/my_turtle/my_turtle.egg-info/SOURCES.txt'
+[0.825s] writing manifest file 'build/my_turtle/my_turtle.egg-info/SOURCES.txt'
+[0.825s] running build
+[0.825s] running build_py
+[0.826s] creating /root/ros2_ws/src/my_turtle/build/my_turtle/build
+[0.826s] creating /root/ros2_ws/src/my_turtle/build/my_turtle/build/lib
+[0.826s] creating /root/ros2_ws/src/my_turtle/build/my_turtle/build/lib/my_turtle
+[0.826s] copying my_turtle/__init__.py -> /root/ros2_ws/src/my_turtle/build/my_turtle/build/lib/my_turtle
+[0.826s] copying my_turtle/my_turtle_controll.py -> /root/ros2_ws/src/my_turtle/build/my_turtle/build/lib/my_turtle
+[0.826s] running install
+[0.827s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.827s]   warnings.warn(
+[0.827s] running install_lib
+[0.828s] creating /root/ros2_ws/src/my_turtle/install/my_turtle/lib/python3.10/site-packages/my_turtle
+[0.828s] copying /root/ros2_ws/src/my_turtle/build/my_turtle/build/lib/my_turtle/__init__.py -> /root/ros2_ws/src/my_turtle/install/my_turtle/lib/python3.10/site-packages/my_turtle
+[0.829s] copying /root/ros2_ws/src/my_turtle/build/my_turtle/build/lib/my_turtle/my_turtle_controll.py -> /root/ros2_ws/src/my_turtle/install/my_turtle/lib/python3.10/site-packages/my_turtle
+[0.829s] byte-compiling /root/ros2_ws/src/my_turtle/install/my_turtle/lib/python3.10/site-packages/my_turtle/__init__.py to __init__.cpython-310.pyc
+[0.830s] byte-compiling /root/ros2_ws/src/my_turtle/install/my_turtle/lib/python3.10/site-packages/my_turtle/my_turtle_controll.py to my_turtle_controll.cpython-310.pyc
+[0.830s] running install_data
+[0.830s] creating /root/ros2_ws/src/my_turtle/install/my_turtle/share/ament_index
+[0.830s] creating /root/ros2_ws/src/my_turtle/install/my_turtle/share/ament_index/resource_index
+[0.831s] creating /root/ros2_ws/src/my_turtle/install/my_turtle/share/ament_index/resource_index/packages
+[0.831s] copying resource/my_turtle -> /root/ros2_ws/src/my_turtle/install/my_turtle/share/ament_index/resource_index/packages
+[0.831s] copying package.xml -> /root/ros2_ws/src/my_turtle/install/my_turtle/share/my_turtle
+[0.832s] running install_egg_info
+[0.833s] Copying build/my_turtle/my_turtle.egg-info to /root/ros2_ws/src/my_turtle/install/my_turtle/lib/python3.10/site-packages/my_turtle-0.0.0-py3.10.egg-info
+[0.833s] running install_scripts
+[0.850s] Installing controller script to /root/ros2_ws/src/my_turtle/install/my_turtle/lib/my_turtle
+[0.850s] writing list of installed files to '/root/ros2_ws/src/my_turtle/build/my_turtle/install.log'
+[0.868s] Invoked command in '/root/ros2_ws/src/my_turtle' returned '0': PYTHONPATH=/root/ros2_ws/src/my_turtle/build/my_turtle/prefix_override:/root/ros2_ws/src/my_turtle/install/my_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/my_turtle build --build-base /root/ros2_ws/src/my_turtle/build/my_turtle/build install --record /root/ros2_ws/src/my_turtle/build/my_turtle/install.log --single-version-externally-managed

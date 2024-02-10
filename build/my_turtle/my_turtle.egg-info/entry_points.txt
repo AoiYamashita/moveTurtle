@@ -1,0 +1,3 @@
+[console_scripts]
+controller = my_turtle.my_turtle_controll.main
+
